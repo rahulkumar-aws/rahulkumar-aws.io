@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://rahulkumar-aws.github.io/rahulkumar-aws.io/sitemap.xml
+Sitemap: https://singletonmatrix.com/rahulkumar-aws.io/sitemap.xml
