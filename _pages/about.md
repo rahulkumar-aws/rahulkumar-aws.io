@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Affiliations</a>. Singapore.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p></p>
+    <p></p>
+    <p></p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
@@ -19,8 +19,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I have over 11 years of hands-on experience in product development with big data, analytics, and cloud computing. I am passionate about harnessing data's potential for innovation and scalability, and I have a proven track record of delivering high-quality and high-performance data solutions for various industries, such as AdTech, Retail, Security, and Pharmacy.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In my current role, I leverage my skills and certifications in Amazon Elastic MapReduce (EMR), AWS Databricks, H2O.ai, and other cutting-edge technologies to design and implement data pipelines, data lakes, data warehouses, and data science platforms. I also collaborate with cross-functional teams of data scientists, analysts, and business stakeholders to understand their data needs and provide them with actionable insights and recommendations. I am always eager to learn new skills and tools, and I strive to keep myself updated with the latest trends and best practices in the field of data engineering.
